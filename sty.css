@@ -1,0 +1,50 @@
+* {
+    margin: 30;
+    padding: 20;
+    font-family:'Times New Roman', Times, serif;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url("meh.jpg"); 
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+h3 {
+    text-align: center;
+    color: #fbdeb5;
+    background: #89641f;
+    border-radius: 12px;
+    font-size: 30px;
+    font-weight: 100px;
+    width: 30%;
+}
+
+p {
+    background: #ffeed0;
+    border-radius: 12px;
+    text-align: left;
+    color: #624110;
+    font-size: 50px;
+    font-weight: 300;
+    font-style: italic;
+    margin-right: 600px;
+}
+
+button {
+    font-size: 50px;
+    width: 10%;
+    padding: 15px;
+    font-size: 18px;
+    font-weight: bold;
+    color: white;
+    background:#f3c777;
+    border: auto;
+    border-radius: 18px;
+}
+
+div {
+    margin-top: 200px;
+}
